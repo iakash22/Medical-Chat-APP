@@ -1,2 +1,2 @@
 # Medical-Chat-App
-A medical chat app provides instant access to healthcare professionals for users seeking medical advice and assistance. It allows users to describe their symptoms, receive diagnoses, get medication recommendations, and ask questions about their health. The app offers convenient and reliable healthcare support, ensuring prompt and accurate medical information.
+Experience instant medical support with our chat app. Connect with healthcare professionals in real-time, receive prompt assistance, and get expert advice for your health concerns. Convenient, reliable, and accessible, our app ensures you have the medical support you need, right at your fingertips.
