@@ -29,8 +29,8 @@ const Auth = () => {
         const { username, password, phoneNumber, avatarURL } = form;
         
 
-        // const URL = 'https://localhost:8000/auth';
-        const URL = 'https://medical-authentication-oct2002.up.railway.app/auth/';
+        // const URL = 'http://localhost:8000/auth/';
+        const URL = 'https://server-production-b561.up.railway.app/auth/';
         console.log("Url" + URL)
         const { data: { token, userId, hashedPassword, fullName } } = await axios.post(`${URL}${isSignup ? 'signup' : 'login'}`, {
             username, password, fullName: form.fullName, phoneNumber, avatarURL,
