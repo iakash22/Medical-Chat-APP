@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Medical-Chat-App/static/css/main.c1b0a242.css",
+    "main.js": "/Medical-Chat-App/static/js/main.fd21d295.js",
+    "static/js/141.11ea37e2.chunk.js": "/Medical-Chat-App/static/js/141.11ea37e2.chunk.js",
+    "static/js/209.b9141f0c.chunk.js": "/Medical-Chat-App/static/js/209.b9141f0c.chunk.js",
+    "static/js/717.6374386a.chunk.js": "/Medical-Chat-App/static/js/717.6374386a.chunk.js",
+    "static/js/829.2231ad8a.chunk.js": "/Medical-Chat-App/static/js/829.2231ad8a.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/Medical-Chat-App/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/Medical-Chat-App/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/image.webp": "/Medical-Chat-App/static/media/image.371c24976ea501326376.webp",
+    "index.html": "/Medical-Chat-App/index.html",
+    "main.c1b0a242.css.map": "/Medical-Chat-App/static/css/main.c1b0a242.css.map",
+    "main.fd21d295.js.map": "/Medical-Chat-App/static/js/main.fd21d295.js.map",
+    "141.11ea37e2.chunk.js.map": "/Medical-Chat-App/static/js/141.11ea37e2.chunk.js.map",
+    "209.b9141f0c.chunk.js.map": "/Medical-Chat-App/static/js/209.b9141f0c.chunk.js.map",
+    "717.6374386a.chunk.js.map": "/Medical-Chat-App/static/js/717.6374386a.chunk.js.map",
+    "829.2231ad8a.chunk.js.map": "/Medical-Chat-App/static/js/829.2231ad8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b0a242.css",
+    "static/js/main.fd21d295.js"
+  ]
+}
